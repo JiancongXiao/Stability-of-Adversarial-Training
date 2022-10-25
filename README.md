@@ -1,6 +1,6 @@
 # Stability of Adversarial Training
 
-[arxiv]: https://arxiv.org/abs/2210.00960
+**Paper:** [https://arxiv.org/abs/2210.00960](https://arxiv.org/abs/2210.00960)
 
 NeurIPS 2022
 
