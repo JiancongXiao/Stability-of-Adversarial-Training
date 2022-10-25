@@ -1,6 +1,10 @@
-# Stability of Adversarial Training
+# Stability Analysis and Generalization Bounds of Adversarial Training
 
-**Paper:** [https://arxiv.org/abs/2210.00960](https://arxiv.org/abs/2210.00960)
+**Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo**
+
+**Arxiv:** [https://arxiv.org/abs/2210.00960](https://arxiv.org/abs/2210.00960) 
+
+**OpenReview:** [https://openreview.net/forum?id=78aj7sPX4s-](https://openreview.net/forum?id=78aj7sPX4s-)
 
 NeurIPS 2022
 
