@@ -4,9 +4,9 @@
 
 **arXiv:** [https://arxiv.org/abs/2210.00960](https://arxiv.org/abs/2210.00960) 
 
-**Openreview:** [https://openreview.net/forum?id=78aj7sPX4s-](https://openreview.net/forum?id=78aj7sPX4s-)
+**OpenReview:** [https://openreview.net/forum?id=78aj7sPX4s-](https://openreview.net/forum?id=78aj7sPX4s-)
 
-NeurIPS 2022
+NeurIPS 2022 Spotlight
 
 ## Abstract
 
