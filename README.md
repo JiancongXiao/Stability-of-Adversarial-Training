@@ -20,13 +20,12 @@ In adversarial machine learning, deep neural networks can fit the adversarial ex
 
 ## Citation
 ```
-@inproceedings{
-xiao2022stability,
-title={Stability Analysis and Generalization Bounds of Adversarial Training},
-author={Jiancong Xiao and Yanbo Fan and Ruoyu Sun and Jue Wang and Zhi-Quan Luo},
-booktitle={Advances in Neural Information Processing Systems},
-editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
-year={2022},
-url={https://openreview.net/forum?id=78aj7sPX4s-}
+@article{xiao2022stability,
+  title={Stability analysis and generalization bounds of adversarial training},
+  author={Xiao, Jiancong and Fan, Yanbo and Sun, Ruoyu and Wang, Jue and Luo, Zhi-Quan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={15446--15459},
+  year={2022}
 }
 ```
